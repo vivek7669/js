@@ -11,7 +11,7 @@ let i=c.length
         i++;
     }
 
-
+    let big  = c[0]; 
     for(i=0;i<c.length;i++){
         
     }
